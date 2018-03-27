@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlatziGram</string>
+    <string name="title_activity_prueba">PruebaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+</resources>
